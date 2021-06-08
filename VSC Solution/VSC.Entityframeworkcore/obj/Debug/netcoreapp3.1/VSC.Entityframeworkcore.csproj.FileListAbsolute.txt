@@ -1,0 +1,11 @@
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\bin\Debug\netcoreapp3.1\VSC.Entityframeworkcore.deps.json
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\bin\Debug\netcoreapp3.1\VSC.Entityframeworkcore.dll
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\bin\Debug\netcoreapp3.1\VSC.Entityframeworkcore.pdb
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\obj\Debug\netcoreapp3.1\VSC.Entityframeworkcore.AssemblyInfoInputs.cache
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\obj\Debug\netcoreapp3.1\VSC.Entityframeworkcore.AssemblyInfo.cs
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\obj\Debug\netcoreapp3.1\VSC.Entityframeworkcore.dll
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\obj\Debug\netcoreapp3.1\VSC.Entityframeworkcore.pdb
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\bin\Debug\netcoreapp3.1\VSC.Entityframeworkcore.runtimeconfig.json
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\bin\Debug\netcoreapp3.1\VSC.Entityframeworkcore.runtimeconfig.dev.json
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\obj\Debug\netcoreapp3.1\VSC.Entityframeworkcore.genruntimeconfig.cache
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\obj\Debug\netcoreapp3.1\VSC.Entityframeworkcore.csproj.CoreCompileInputs.cache

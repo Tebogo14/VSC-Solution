@@ -1,0 +1,56 @@
+<div class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12 ml-auto mr-auto">
+                <div class="page-categories">
+                    <div class="card">
+                        <div class="card-header">
+                            <h2 class="card-title">{{customer.name}} {{customer.accountNumber}}
+                                <button class="btn btn-outline-primary waves-effect" (click)="editCustomer()"
+                                    style="float:right">Update</button>
+                            </h2>
+                        </div>
+                        <div class="card-body" style="min-height: 400px;">
+                            <div class="map-container">
+                                <div class="map-frame">
+                                    <div id="map"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header">
+                            <h2>Contact People</h2>
+                        </div>
+                        <div class="card-body">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th scope="col"><strong>Name</strong></th>
+                                        <th scope="col"><strong>Surname</strong></th>
+                                        <th scope="col"><strong>Contact Number</strong></th>
+                                        <th scope="col"><strong>Email Address</strong></th>
+                                        <th scope="col"><strong>Update</strong></th>
+                                        <th scope="col"><strong>Delete</strong></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr *ngFor="let person of contactPeople">
+                                        <td>{{person.name}}</td>
+                                        <td>{{person.surname}}</td>
+                                        <td>{{person.number}}</td>
+                                        <td>{{person.email}}</td>
+                                        <td><a class="btn btn-sm btn-outline-primary waves-effect"
+                                                (click)="editPerson(person)"><i class="fa fa-edit">&nbsp;</i></a></td>
+                                        <td><a class="btn btn-sm btn-outline-danger waves-effect"
+                                                (click)="delete(person.id)"><i class="fa fa-trash">&nbsp;</i></a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

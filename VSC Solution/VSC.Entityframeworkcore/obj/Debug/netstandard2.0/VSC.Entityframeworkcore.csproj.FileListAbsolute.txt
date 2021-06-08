@@ -1,0 +1,9 @@
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\bin\Debug\netstandard2.0\VSC.Entityframeworkcore.deps.json
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\bin\Debug\netstandard2.0\VSC.Entityframeworkcore.dll
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\bin\Debug\netstandard2.0\VSC.Entityframeworkcore.pdb
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\obj\Debug\netstandard2.0\VSC.Entityframeworkcore.AssemblyInfoInputs.cache
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\obj\Debug\netstandard2.0\VSC.Entityframeworkcore.AssemblyInfo.cs
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\obj\Debug\netstandard2.0\VSC.Entityframeworkcore.dll
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\obj\Debug\netstandard2.0\VSC.Entityframeworkcore.pdb
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\obj\Debug\netstandard2.0\VSC.Entityframeworkcore.csproj.AssemblyReference.cache
+C:\Source\Repos\VSC Solution\VSC.Entityframeworkcore\obj\Debug\netstandard2.0\VSC.Entityframeworkcore.csproj.CoreCompileInputs.cache

@@ -1,0 +1,132 @@
+C:\Source\Repos\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.AssemblyInfoInputs.cache
+C:\Source\Repos\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.AssemblyInfo.cs
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\VSC Solution.exe
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\VSC Solution.deps.json
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\VSC Solution.runtimeconfig.json
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\VSC Solution.runtimeconfig.dev.json
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\VSC Solution.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\VSC Solution.pdb
+C:\Source\Repos\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.RazorTargetAssemblyInfo.cache
+C:\Source\Repos\VSC Solution\obj\Debug\netcoreapp3.1\staticwebassets\VSC Solution.StaticWebAssets.Manifest.cache
+C:\Source\Repos\VSC Solution\obj\Debug\netcoreapp3.1\staticwebassets\VSC Solution.StaticWebAssets.xml
+C:\Source\Repos\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.dll
+C:\Source\Repos\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.pdb
+C:\Source\Repos\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.genruntimeconfig.cache
+C:\Source\Repos\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.csprojAssemblyReference.cache
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Source\Repos\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.csproj.CopyComplete
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\VSC.Entityframeworkcore.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\VSC.Entityframeworkcore.pdb
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\GeoCoordinate.NetCore.dll
+C:\Source\Repos\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.csproj.CoreCompileInputs.cache
+C:\Source\Repos\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.MvcApplicationPartsAssemblyInfo.cs
+C:\Source\Repos\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\Repos\VSC Solution\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\VSC Solution.exe
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\VSC Solution.deps.json
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\VSC Solution.runtimeconfig.json
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\VSC Solution.runtimeconfig.dev.json
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\VSC Solution.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\VSC Solution.pdb
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\GeoCoordinate.NetCore.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\VSC.Entityframeworkcore.dll
+C:\Source\Repos\VSC\VSC Solution\bin\Debug\netcoreapp3.1\VSC.Entityframeworkcore.pdb
+C:\Source\Repos\VSC\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.csprojAssemblyReference.cache
+C:\Source\Repos\VSC\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.AssemblyInfoInputs.cache
+C:\Source\Repos\VSC\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.AssemblyInfo.cs
+C:\Source\Repos\VSC\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.csproj.CoreCompileInputs.cache
+C:\Source\Repos\VSC\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.MvcApplicationPartsAssemblyInfo.cs
+C:\Source\Repos\VSC\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\Repos\VSC\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.RazorTargetAssemblyInfo.cache
+C:\Source\Repos\VSC\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.csproj.CopyComplete
+C:\Source\Repos\VSC\VSC Solution\obj\Debug\netcoreapp3.1\staticwebassets\VSC Solution.StaticWebAssets.Manifest.cache
+C:\Source\Repos\VSC\VSC Solution\obj\Debug\netcoreapp3.1\staticwebassets\VSC Solution.StaticWebAssets.xml
+C:\Source\Repos\VSC\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.dll
+C:\Source\Repos\VSC\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.pdb
+C:\Source\Repos\VSC\VSC Solution\obj\Debug\netcoreapp3.1\VSC Solution.genruntimeconfig.cache

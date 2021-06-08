@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>VSC_Solution</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Import.VSCData\**" />
+    <Compile Remove="VSC.Entityframeworkcore\**" />
+    <Content Remove="Import.VSCData\**" />
+    <Content Remove="VSC.Entityframeworkcore\**" />
+    <EmbeddedResource Remove="Import.VSCData\**" />
+    <EmbeddedResource Remove="VSC.Entityframeworkcore\**" />
+    <None Remove="Import.VSCData\**" />
+    <None Remove="VSC.Entityframeworkcore\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.9" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="3.1.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="VSC.Entityframeworkcore\VSC.Entityframeworkcore.csproj" />
+  </ItemGroup>
+
+
+</Project>

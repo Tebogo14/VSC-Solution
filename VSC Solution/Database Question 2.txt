@@ -1,0 +1,5 @@
+Update public."ContactPeople"
+Set "Email" = SUBSTRING("Email",1,POSITION('@' in "Email")-1) || '@vscsolutions' || SUBSTRING("Email",POSITION('.' in "Email"))
+Where "EntityId" = (Select "Id"
+					From public."Entities"  
+					WHERE "Name" = 'Sweet Paradise')

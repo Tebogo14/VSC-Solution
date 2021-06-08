@@ -1,0 +1,40 @@
+<div class="content">
+    <div class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12 ml-auto mr-auto">
+                    <div class="page-categories">
+                        <div class="card">
+                            <div class="card-header">
+                                <h2 class="card-title">Customers
+                            </h2>
+                            </div>
+                            <div class="card-body">
+                                <table class="table table-striped">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col"><strong>Name</strong></th>
+                                            <th scope="col"><strong>Account Number</strong></th>
+                                            <th scope="col"><strong>Type</strong></th>
+                                            <th scope="col"><strong>View</strong></th>
+                                            <th scope="col"><strong>Delete</strong></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr *ngFor="let customer of customers">
+                                            <td>{{customer.name}}</td>
+                                            <td>{{customer.accountNumber}}</td>
+                                            <td>{{customer.type}}</td>
+                                            <td><a class="btn btn-sm btn-outline-primary waves-effect" [routerLink]="[customer.id]"><i class="fa fa-eye"></i></a></td>
+                                            <td><a class="btn btn-sm btn-outline-danger waves-effect" (click)="delete(customer.id)"><i class="fa fa-trash"></i></a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
